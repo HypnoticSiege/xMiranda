@@ -1,0 +1,17 @@
+body {
+    background: none !important;
+}
+
+#container {
+    font-size: 20px;
+    padding: 25px;
+    color: rgb(163, 163, 163);
+    position: fixed;
+    top: 50%;
+    left: 85%;
+    transform: translate(-50%, -50%);
+    background-color: #ffffff;
+    opacity: .7;
+    border: 2px solid aliceblue;
+    border-radius: 7px;
+}
